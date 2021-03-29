@@ -1,0 +1,2 @@
+# deploy_weblogic_nodemanager
+一键部署nodemanager管理的weblogic
